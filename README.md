@@ -11,17 +11,11 @@ In this project I implement two types of attacks on MNIST dataset using PyTorch 
 
 Results:
 
-<p>
-FGSM
-  <img src="images/fgsm_example.png" alt="fgsm" width="400" />
-</p>
+## FGSM
+![fgsm](images/fgsm_example.png)
 
-<p>
-Deepfool Attack
-  <img src="images/deepfool_example.png" alt="deepfool" width="400" />
-</p>
+## Deepfool Attack
+![deepfool](images/deepfool_example.png)
 
-<p>
-MNIST Dataset
-  <img src="images/mnist example.png" alt="mnist" width="400" />
-</p>
+## MNIST Dataset
+![mnist](images/mnist_example.png)
