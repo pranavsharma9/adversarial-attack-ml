@@ -2,9 +2,9 @@
 
 ## About the Project
 
-Adversarial Attack is the methodology used to trick deep neural networks to misclassify data by slightly perturbing the original data. These perturbations are so small that they aren't even visible to human eye.
+Adversarial attacks on image data are a type of machine learning (ML) attack that involves subtly modifying an image to trick a model into making an incorrect prediction.
 
-In this project I implement three types of attacks on MNIST dataset which are implemented based on the following papers:
+In this project I implement two types of attacks on MNIST dataset using PyTorch which are implemented based on the following papers:
 
 1. FGSM - [Link to paper](https://arxiv.org/abs/1412.6572)
 2. Deepfool Attack - [Link to paper](https://arxiv.org/abs/1511.04599)
