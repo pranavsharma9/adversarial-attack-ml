@@ -10,8 +10,12 @@ In this project I implement two types of attacks on MNIST dataset using PyTorch 
 2. Deepfool Attack - [Link to paper](https://arxiv.org/abs/1511.04599)
 
 Results:
-
+FGSM
   <img src="images/fgsm_example.png" alt="fgsm" width="400" />
+
+Deepfool Attack
   <img src="images/deepfool_example.png" alt="deepfool" width="400" />
+
+MNIST Dataset
   <img src="images/mnist example.png" alt="mnist" width="400" />
 
