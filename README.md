@@ -11,6 +11,7 @@ In this project I implement three types of attacks on MNIST dataset which are im
 
 Results:
 
-![image1][images/fgsm_example.png]
-![image2][images/lbfgs_example.png]
-![image3][images/mnist example.png]
+  <img src="images/fgsm_example.png" alt="Cat" width="400" />
+  <img src="images/lbfgs_example.png" alt="Cat Result" width="400" />
+  <img src="images/mnist example.png" alt="Cat Result2" width="400" />
+
