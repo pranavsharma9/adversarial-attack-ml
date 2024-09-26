@@ -9,7 +9,7 @@ In this project I implement two types of attacks on MNIST dataset using PyTorch 
 1. FGSM - [Link to paper](https://arxiv.org/abs/1412.6572)
 2. Deepfool Attack - [Link to paper](https://arxiv.org/abs/1511.04599)
 
-Results:
+## Results:
 
 ## FGSM
 ![fgsm](images/fgsm_example.png)
@@ -18,4 +18,4 @@ Results:
 ![deepfool](images/deepfool_example.png)
 
 ## MNIST Dataset
-![mnist](images/mnist_example.png)
+![mnist](images/mnist example.png)
