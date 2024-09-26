@@ -18,4 +18,5 @@ In this project I implement two types of attacks on MNIST dataset using PyTorch 
 ![deepfool](images/deepfool_example.png)
 
 ## MNIST Dataset
-![mnist](images/mnist example.png)
+<img src="images/mnist example.png" alt="mnist" width="400" />
+</p>
